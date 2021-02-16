@@ -19,6 +19,11 @@ It should look something like this
 
 ## form convertor to json object
 
+![Screenshot3](https://user-images.githubusercontent.com/75522036/108073100-abcd7300-708d-11eb-860e-6d30087e3a06.jpg)
+
+## json object after uploading the excel file
+
+
 
 
 
