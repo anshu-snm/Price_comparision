@@ -23,6 +23,9 @@ It should look something like this
 
 ## json object after uploading the excel file
 
+![screenshot4](https://user-images.githubusercontent.com/75522036/108073480-19799f00-708e-11eb-82cb-1474ba50f573.jpg)
+
+
 
 
 
