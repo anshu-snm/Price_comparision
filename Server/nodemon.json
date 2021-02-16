@@ -1,0 +1,8 @@
+    {
+        "env":{
+            "MONGO_USER":"ansh",
+            "MONGO_PASSWORD":"snowwhite16",
+            "MONGO_DB":"deets"
+
+        }
+    }
